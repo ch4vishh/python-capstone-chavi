@@ -1,0 +1,28 @@
+
+================= EXECUTIVE SUMMARY =================
+Total Campus Consumption: 5651.00 kWh
+Highest Consuming Building: Science_block (2170.00 kWh)
+
+
+📍 REPORT: Admin_building
+ • Entries: 11
+ • Total: 1695.00 kWh
+ • Average: 154.09 kWh
+ • Min: 120.00 kWh
+ • Max: 180.00 kWh
+
+📍 REPORT: Science_block
+ • Entries: 10
+ • Total: 2170.00 kWh
+ • Average: 217.00 kWh
+ • Min: 190.00 kWh
+ • Max: 240.00 kWh
+
+📍 REPORT: sports_block
+ • Entries: 10
+ • Total: 1786.00 kWh
+ • Average: 178.60 kWh
+ • Min: 160.00 kWh
+ • Max: 200.00 kWh
+
+=====================================================
